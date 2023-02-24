@@ -1,3 +1,5 @@
+#я би один словом сказав що код гівно але ладно
+
 def game_of_life(board):
     """
     Given a board representing the current state of the Game of Life, return a board representing the next state.
