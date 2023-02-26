@@ -3,4 +3,4 @@ This program implements the classic Game of Life simulation, where each cell on 
 Creator: kingvlad
 Lang: EN
 Connecting in discord: kingvlad#0001
-Connecting in Telegram:
+Connecting in Telegram: https://kingvlad.t.me
