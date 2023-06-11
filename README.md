@@ -4,3 +4,5 @@ Creator: kingvlad
 Lang: EN
 Connecting in discord: kingvlad#0001
 Connecting in Telegram: https://kingvlad.t.me
+
+## Good Luck!
