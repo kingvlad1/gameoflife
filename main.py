@@ -49,7 +49,7 @@ def main():
         board = game_of_life(board)
         input("Press Enter to continue...")
 
-if __name__ == '__main__'::
+if __name__ == '__main__':
     main()
 
 #end code
